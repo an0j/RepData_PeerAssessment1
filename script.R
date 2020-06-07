@@ -79,4 +79,3 @@ xyplot(steps ~ interval | factor(dayType), data = activityCompleteWeekday,
 
 
 
-
